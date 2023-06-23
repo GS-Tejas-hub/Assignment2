@@ -1,0 +1,133 @@
+html,head{
+    width: 100%;
+height: 100%;
+background-image:linear-gradient(rgba(255, 1, 1, 0.621),rgba(255, 255, 255, 0)), url('https://e0.pxfuel.com/wallpapers/685/577/desktop-wallpaper-peaceful-background-amazing-background-spa-relaxing.jpg');     
+background-repeat: no-repeat;
+background-position: center;
+background-size: 100% 100%;
+position: relative;
+}
+html, body {
+    height: 100%;
+}
+
+.c{
+width: 100%;
+height: 100%;
+background-image:linear-gradient(rgba(255, 0, 0, 0.304),rgba(255, 255, 255, 0)), url('https://w0.peakpx.com/wallpaper/378/616/HD-wallpaper-night-party-concert-night-club-fans-dancing-people-dancing-party.jpg');     
+background-repeat: no-repeat;
+background-position: center;
+background-size: 100% 100%;
+position: relative;
+
+}
+.fb{
+width: 90%;
+max-width: 450px;
+position: absolute;
+top:90%;
+left:50%;
+transform: translate(-50%, 10%);
+background: #6f3bff86;
+padding: 50px 60px 70px;
+text-align: center;
+}
+.fb h1{
+font-size: 30px;
+margin-bottom: 60px;
+color: #660070;
+position: relative;
+}
+
+.fb h1::after{
+content: '';
+width: 30px;
+height: 4px;
+border-radius: 3px;
+background: #660070;
+bottom: -12px;
+left: 50%;
+transform: translateX(-50%);
+}
+.if{
+background: #cac6c6;
+margin: 15px 0;
+border-radius: 3px;
+display: flex;
+align-items: center;
+max-height: 65px;
+transition: max-height 1s;
+overflow:initial ;
+}
+input{
+width: 100%;
+background: transparent;
+outline: 0;
+border: 0;
+padding: 18px 15px;
+}
+.if i{
+margin-left: 15px;
+color: #000000;
+}
+form p{
+text-align: left;
+font-size: 13px;
+}
+form p a{
+text-decoration: none;
+color: #660070;
+
+}
+
+.bf{
+width: 100%;
+display: flex;
+justify-content: space-between;
+padding-top: 50px;
+}
+.bf button{
+flex-basis: 48%;
+background: #ff0000;
+color: #ffffff;
+height: 40px;
+border-radius: 20px;
+border: 0px;
+outline: 0;
+cursor: pointer;
+transition: 1s;
+padding-top: 0px;
+position: relative;
+}
+
+.ig{
+padding-top: 0px;
+height: 310px
+}
+#t{
+padding-top: 00px;
+color: #ffffff;
+}
+.hehe{
+align-items:self-end;
+padding-left: 190px;
+}
+.wee{
+padding-right: 190px;
+}
+p{
+color: rgb(255, 255, 255);
+font-size: 26px;
+text-align: center;
+
+}
+head, h1{
+text-align: center;
+color: #ffffff;
+}
+.bf b.d{
+background: #ff0000;
+padding-top: 70px;
+color: #555;
+
+}
